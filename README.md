@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2S3i7wQ6UIGCMrteCaMaQo&ust=1695989838168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi46tGkzYEDFQAAAAAdAAAAABAK" />
+
 - 🌱 I’m currently learning **React JS, Node JS, Express JS, and Mongo DB**
 
 - 💬 Ask me about **React Js and Firebase**
@@ -8,7 +8,7 @@
 - 📫 How to reach me **adnanehsan37@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny**
-
+<img align="right" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2S3i7wQ6UIGCMrteCaMaQo&ust=1695989838168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi46tGkzYEDFQAAAAAdAAAAABAK" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/adnanthedesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnanthedesigner" height="30" width="40" /></a>
