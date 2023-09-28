@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="600" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2S3i7wQ6UIGCMrteCaMaQo&ust=1695989838168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi46tGkzYEDFQAAAAAdAAAAABAK)" />
+<img align="right" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2S3i7wQ6UIGCMrteCaMaQo&ust=1695989838168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi46tGkzYEDFQAAAAAdAAAAABAK" />
 - 🌱 I’m currently learning **React JS, Node JS, Express JS, and Mongo DB**
 
 - 💬 Ask me about **React Js and Firebase**
