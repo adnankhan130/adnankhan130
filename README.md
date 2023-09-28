@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React Js, Node Js, Express Js and Mongo DB**
+- 🌱 I’m currently learning **React JS, Node JS, Express JS, and Mongo DB**
 
 - 💬 Ask me about **React Js and Firebase**
 
 - 📫 How to reach me **adnanehsan37@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny**
-
+<img align="right" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/adnanthedesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnanthedesigner" height="30" width="40" /></a>
