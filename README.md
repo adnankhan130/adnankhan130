@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React JS, Node JS, Express JS, and Mongo DB**
+- 🌱 I’m currently learning **React JS, Node JS, Express JS, Firebase, and Mongo DB**
 
 - 💬 Ask me about **React Js and Firebase**
 
